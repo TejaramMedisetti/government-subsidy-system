@@ -438,4 +438,4 @@ Issues and pull requests are welcome. Please open an issue first to discuss larg
 
 ## Authors
 
-Built as a college team project. <!-- add your name, teammates and profile links here -->
+Built as a Intership project. <!-- add your name, teammates and profile links here -->
