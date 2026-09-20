@@ -1,0 +1,32 @@
+# --- Secrets & local config ---
+.env
+.env.*
+!.env.example
+backend/src/main/resources/application-local.properties
+
+# --- Java / Maven ---
+backend/target/
+*.class
+*.log
+*.jar
+!.mvn/wrapper/*.jar
+backend/uploads/
+
+# --- Node / Vite ---
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# --- IDEs & OS ---
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
+
+# --- Tooling artifacts ---
+.github/modernize/
